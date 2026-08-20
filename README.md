@@ -28,7 +28,7 @@ Mbiicoffe hadir sebagai oase bagi para pecinta kopi. Kami percaya bahwa kopi buk
 - **Jakarta:** Jl. Senopati No. 8, Kebayoran Baru, Jakarta Selatan.
 
 ## 5. Testimoni
-- "Kopi Susu Mbi-nya juara banget! Tempatnya juga nyaman banget buat nugas." - *Andi, Bogor*
+- "Kopi Kenangan Indah nya juara banget! Tempatnya juga nyaman banget buat nugas." - *Andi, Bogor*
 - "Roti bakarnya garing dan toppingnya melimpah. Bakal jadi tempat favorit baru di Semarang!" - *Sari, Semarang*
 - "Suasananya tenang, cocok banget buat meeting santai. Kopinya enak!" - *Budi, Jakarta*
 
