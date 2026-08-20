@@ -43,6 +43,8 @@ import aboutCoffee from "@/assets/about-coffee.jpg";
 import menuSignature from "@/assets/menu-signature.jpg";
 import menuLatte from "@/assets/menu-latte.jpg";
 import menuToast from "@/assets/menu-toast.jpg";
+import menuFries from "@/assets/menu-fries.jpg";
+import menuPisangGoreng from "@/assets/menu-pisang-goreng.jpg";
 
 export const Route = createFileRoute("/")({
   component: Index,
@@ -82,7 +84,7 @@ const navLinks = [
 
 const coffeeMenu = [
   {
-    name: "Kopi Susu Mbi",
+    name: "Kopi Susu",
     description: "Signature kami, perpaduan kopi, susu, dan gula aren.",
     price: "Rp 22.000",
     badge: "Signature",
@@ -117,14 +119,14 @@ const snackMenu = [
     description: "Gurih dan renyah, cocok jadi teman ngopi.",
     price: "Rp 20.000",
     badge: "Cemilan",
-    image: menuToast,
+    image: menuFries,
   },
   {
     name: "Pisang Goreng Madu",
     description: "Manis legit dengan sentuhan madu alami.",
     price: "Rp 16.000",
     badge: "Manis",
-    image: menuToast,
+    image: menuPisangGoreng,
   },
 ];
 
