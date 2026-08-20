@@ -77,19 +77,36 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "Mbiicoffe — Teman Setia di Setiap Sruputan" },
+      {
+        name: "description",
+        content:
+          "Mbiicoffe adalah ruang santai untuk menikmati kopi lokal berkualitas dan jajanan ringan yang bikin nagih. Pesan langsung dari meja kamu.",
+      },
+      { name: "author", content: "Mbiicoffe" },
+      {
+        property: "og:title",
+        content: "Mbiicoffe — Teman Setia di Setiap Sruputan",
+      },
+      {
+        property: "og:description",
+        content:
+          "Ruang santai untuk menikmati kopi lokal berkualitas dan jajanan ringan yang bikin nagih. Pesan dari meja kamu sekarang.",
+      },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:site", content: "@mbiicoffe" },
     ],
     links: [
       {
         rel: "stylesheet",
         href: appCss,
+      },
+      { rel: "preconnect", href: "https://fonts.googleapis.com" },
+      { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
+      {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap",
       },
       { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
     ],
