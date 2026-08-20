@@ -14,7 +14,7 @@ Mbiicoffe hadir sebagai oase bagi para pecinta kopi. Kami percaya bahwa kopi buk
 
 ## 3. Menu
 ### Kopi Pilihan
-- **Kopi Susu Mbi:** Signature kami, perpaduan kopi, susu, dan gula aren.
+- **Kopi Kenangan Indah:** Signature kami, perpaduan kopi, susu, dan gula aren.
 - **Espresso / Americano:** Untuk kamu yang ingin rasa kopi murni.
 - **Latte:** Lembut dan menenangkan.
 
